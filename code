@@ -65,7 +65,7 @@ public class Ff extends LinearOpMode {
      * and paste it in to your code on the next line, between the double quotes.
      */
     private static final String VUFORIA_KEY =
-            "AZ7oxD7/////AAABmebGk9+7G0PMiZQl48glwUFD8C6lZAA0WmNz30UGtLp09D5jkgNaJdTxNdj1jpqgQu9CrrmjVuitGlDge39YddQQxXUO+s1IWqAx/vW0XP+Ngx6L2Nj8k6WvllYF1kLMrR5I7BNN+irsyFDZH+Ub6YsvVr705WMz/edb5hTO0Ir7Y5KSmHLFPTQvoofFg/TcClPIJzVQSsxhQPTUumgime57OesBlzNrEFyKPREKRsAWBArW2paRMSzEcHfX2LgVS0HdMVUijK0OMlg2XRqawgitVPdyuc4zuxtKHQXlxHWDbKoHo8knlzVvld63TWrr8OxjLA6In9pIVSOS1PHmhsf0UqqOvbJIXh1TNEE/3qJZ";
+            "";
  
     /**
      * {@link #vuforia} is the variable we will use to store our instance of the Vuforia
